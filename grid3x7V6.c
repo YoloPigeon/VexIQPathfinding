@@ -6,7 +6,7 @@
 
 /*						Path finding code
 **            Uses wave pathfinding to solve a 3x7 maze set in the beggining of the program
-**            Written by Gaurav Rao under guidance of KK Quah
+**            Written by Gaurav Rao
 **            6/26/2017
 */
 
